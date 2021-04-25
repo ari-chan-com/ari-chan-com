@@ -12,6 +12,7 @@
 - 「Settings」をクリック
 - 「GitHub Pages」という項目の緑色の背景の箇所に「Your site is published at ...」と表示されている場合には、そこに表示されているURLで既にWebページが公開されている
   - もし表示されていない場合には、「Source」の項目が「None」となっているので、これをデフォルトブランチ（リポジトリが作成された時期に応じて、「master branch」または「main branch」）に変更して「Save」ボタンを押すことでURLが表示される
+  - ※画像のアップロードをしていないと、「GitHub Pages」の項目に「Source」が出てこない？
 
 # HTMLの基本構文
 `<!DOCTYPE html>`    
